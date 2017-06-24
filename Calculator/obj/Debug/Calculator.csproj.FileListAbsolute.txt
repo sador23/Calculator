@@ -1,0 +1,11 @@
+c:\users\sador23\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\sador23\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\sador23\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\sador23\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\ClassLibrary1.dll
+c:\users\sador23\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\ClassLibrary1.pdb
+c:\users\sador23\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\sador23\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\sador23\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\sador23\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\sador23\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\sador23\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
